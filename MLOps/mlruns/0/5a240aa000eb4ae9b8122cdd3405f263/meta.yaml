@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5a240aa000eb4ae9b8122cdd3405f263/artifacts
+end_time: 1727867788124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a240aa000eb4ae9b8122cdd3405f263
+run_name: dapper-croc-87
+run_uuid: 5a240aa000eb4ae9b8122cdd3405f263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727867784172
+status: 3
+tags: []
+user_id: adimulamramkumar

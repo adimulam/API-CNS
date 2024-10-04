@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e4e0a29e406547d1b374d98f27ee4fc7/artifacts
+end_time: 1727867213911
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4e0a29e406547d1b374d98f27ee4fc7
+run_name: awesome-goat-157
+run_uuid: e4e0a29e406547d1b374d98f27ee4fc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727867209977
+status: 3
+tags: []
+user_id: adimulamramkumar
